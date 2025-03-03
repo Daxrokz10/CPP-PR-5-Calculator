@@ -28,3 +28,7 @@ This is a simple calculator program written in C++ that performs basic arithmeti
 6.Exit
 
 ![alt text](./output/image-5.png)
+
+7.Invalid choice
+
+![alt text](./output/image-6.png)
